@@ -1,0 +1,45 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@heroicons/react": "latest",
+    "@mantine/core": "^7.13.4",
+    "@mantine/dropzone": "^7.13.4",
+    "@mantine/form": "^7.13.4",
+    "@mantine/hooks": "^7.13.4",
+    "@mantine/notifications": "^7.13.4",
+    "@tabler/icons-react": "^3.21.0",
+    "@tailwindcss/forms": "^0.5.9",
+    "@tailwindcss/typography": "^0.5.15",
+    "axios": "^1.7.7",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.11.11",
+    "lucide-react": "latest",
+    "next": "14.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "react-query": "^3.39.3",
+    "sass": "^1.80.6",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
